@@ -1,1 +1,1 @@
-# CRYPTO
+# vicx main server
